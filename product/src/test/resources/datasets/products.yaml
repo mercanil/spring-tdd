@@ -1,0 +1,9 @@
+products:
+  - id: 1
+    nanme: "Product 1"
+    quantity: 10
+    version: 1
+  - id: 2
+    nanme: "Product 2"
+    quantity: 5
+    version: 2
